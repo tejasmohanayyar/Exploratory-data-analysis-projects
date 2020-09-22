@@ -1,0 +1,6 @@
+data/*
+notebooks/*
+pdf/*
+\.jovianrc
+\.ipynb_checkpoints/*
+mostmentioned.png
