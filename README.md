@@ -19,7 +19,7 @@
 ### Sports and fitness
 
 1. Analyzing Cricket records from 1971-2017.
-2. 2. Analyzing a ride sharing dataset of bikes.
+2. Analyzing a ride sharing dataset of bikes.
 3. Cristiano Ronaldo performance dataset.
 4. Analyzing EA sports FIFA dataset.
 
